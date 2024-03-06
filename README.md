@@ -1,7 +1,7 @@
 # MIMPI
 
 ## Note
-To run tests use command `./test`. Tests are located in `examples`. Below is problem description (right now in Polish) 
+To run tests use command `./test`. Tests are located in `examples`. My codes are in `mimpi.c`, `mimpi_common.c`, `mimpi_common.h`, `mimpirun.c`. Below is problem description (right now in Polish) 
 
 ## 
 
